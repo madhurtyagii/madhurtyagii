@@ -16,6 +16,8 @@ I'm passionate about building intelligent AI agents and working at the intersect
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![AI](https://img.shields.io/badge/Generative_AI-Learning-blue?style=for-the-badge)
 
 **Hardware & Embedded Systems:**
