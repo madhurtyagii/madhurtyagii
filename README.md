@@ -25,6 +25,7 @@ I'm passionate about building intelligent AI agents and working at the intersect
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Sensory Spectrum](https://img.shields.io/badge/Sensory_Spectrum-FF69B4?style=for-the-badge&logo=accessibility&logoColor=white)
 
 **Other Technologies:**
 
@@ -34,16 +35,10 @@ I'm passionate about building intelligent AI agents and working at the intersect
 ### 🚀 Featured Projects
 
 #### 🏥 Patient Monitoring System
-Real-time patient monitoring application with video surveillance capabilities
-- Built with Python and Tkinter
-- Real-time video processing
-- Database integration for patient records
+Real-time patient monitoring with video surveillance [memory:74]
 
-#### 👁️ Sensory Spectrum
-Assistive technology designed to help visually impaired individuals
-- IoT integration with sensors
-- Arduino-based hardware implementation
-- Python backend for processing
+#### 👁️ Sensory Spectrum  
+ESP32 color-to-audio assistive device for visually impaired [memory:6]
 
 ### 🎓 Education
 **Bachelor of Computer Applications (BCA)** - Graduating 2026
