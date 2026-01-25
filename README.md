@@ -34,11 +34,17 @@ I'm passionate about building intelligent AI agents and working at the intersect
 
 ### 🚀 Featured Projects
 
+#### 🧠 NeuroVault
+AI-powered knowledge management system with RAG, semantic search, and document processing
+
+#### 🦆 CyDuck  
+AI chatbot with Telegram bot integration and portfolio website
+
 #### 🏥 Patient Monitoring System
-Real-time patient monitoring with video surveillance [memory:74]
+Real-time patient monitoring with video surveillance and fall detection
 
 #### 👁️ Sensory Spectrum  
-ESP32 color-to-audio assistive device for visually impaired [memory:6]
+ESP32 color-to-audio assistive device for visually impaired
 
 ### 🎓 Education
 **Bachelor of Computer Applications (BCA)** - Graduating 2026
