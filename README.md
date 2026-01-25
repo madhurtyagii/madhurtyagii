@@ -57,6 +57,7 @@ ESP32 color-to-audio assistive device for visually impaired
 
 ### 📫 Connect With Me
 - GitHub: [@madhurtyagii](https://github.com/madhurtyagii)
+- LinkedIn: [Madhur Tyagi](https://www.linkedin.com/in/madhurty)
 - Location: Delhi, India
 
 ### 📊 GitHub Stats
