@@ -34,6 +34,9 @@ I'm passionate about building intelligent AI agents and working at the intersect
 
 ### 🚀 Featured Projects
 
+#### 🤖 Nexus AI
+AI-powered multi-agent project execution platform with workflow orchestration, RAG-based context retrieval, and end-to-end project delivery from a single natural language prompt. [file:40]
+
 #### 🧠 NeuroVault
 AI-powered knowledge management system with RAG, semantic search, and document processing
 
